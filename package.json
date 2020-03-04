@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "push": "dddk push './apps/*.ts'",
+    "prettier": "prettier --write './apps/*.ts'"
+  },
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  }
+}
