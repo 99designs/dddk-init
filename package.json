@@ -5,5 +5,8 @@
   },
   "devDependencies": {
     "prettier": "^1.19.1"
+  },
+  "dependencies": {
+    "dddk": "0.0.4"
   }
 }
